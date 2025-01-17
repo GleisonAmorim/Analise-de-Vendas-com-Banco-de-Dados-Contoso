@@ -1,0 +1,3 @@
+Considerando que, em muitas organizações, os Analistas de Dados não possuem permissões para executar comandos DDL, optei por não criar views diretamente no banco de dados. Em vez disso, estabeleci a conexão com o banco de dados diretamente no Power BI. Uma dica útil: ao importar os dados, selecionei a opção 'Opções Avançadas' e inseri a query personalizada que defini previamente no SQL, facilitando a extração dos dados de acordo com as minhas necessidades analíticas.
+
+Realizei a criação da tabela calendário relacionando com as datas da tabela fVendas
