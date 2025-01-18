@@ -1,6 +1,12 @@
 # Projeto Power BI - Análise de Vendas com Banco de Dados Contoso
 
 ![Capturar](https://github.com/user-attachments/assets/f877b8b9-e2be-420f-bd9f-dde068e0b7f7)
+![SQL 3](https://github.com/user-attachments/assets/3bd4988e-4dda-4a02-853a-c0cbfef6f598)
+![SQL 2](https://github.com/user-attachments/assets/88f74eeb-25c9-478a-b92b-c9ed973af78e)
+![SQL 1](https://github.com/user-attachments/assets/8c73e3c5-77bc-4225-a7be-b3073cc92e76)
+![Calendar](https://github.com/user-attachments/assets/6eb2d296-b808-4733-9d0f-3b6af15531b7)
+![Relacionamentos](https://github.com/user-attachments/assets/21a239cb-effa-4025-b817-8cca76859d2d)
+![POWERBI CONEXAO](https://github.com/user-attachments/assets/48225a5d-26ad-445a-8139-9a400631c242)
 
 Este projeto foi desenvolvido com o objetivo de transformar dados brutos de vendas e devoluções do **Banco de Dados Contoso** da Microsoft em **insights** valiosos para a tomada de decisões empresariais. Utilizando **SQL** para tratamento de dados e **Power BI** para visualização, foram criados diversos gráficos interativos para facilitar a análise estratégica.
 
